@@ -1,3 +1,0 @@
-2) You can't define multiple rules for the same non-terminal in javacc, 
-this will result in an error because the parser won't know which rule to 
-follow when it encounters the qualifying phrase.
